@@ -1,0 +1,25 @@
+.statistics {
+  list-style-type: none;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+.spanGood {
+  color: rgb(1, 110, 19);
+}
+
+.spanNeutral {
+  color: rgb(65, 65, 65);
+}
+
+.spanBad {
+  color: rgb(173, 0, 0);
+}
+
+.spanFeedback {
+  font-weight: 700;
+  font-size: 24px;
+  color: rgb(90, 0, 99);
+}

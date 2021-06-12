@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Proxima Nova", "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(222, 221, 255);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.mainContainer {
+  padding-left: 750px;
+  padding-right: 750px;
+  text-align: center;
+}
